@@ -1,0 +1,10 @@
+{
+  "name": "@dedevs/mcp-servers",
+  "version": "1.0.0",
+  "description": "Servers that host MCP configurations.",
+  "main": "index.js",
+  "repository": "https://github.com/DeDevsClub/mcp-servers.git",
+  "author": "Buns Enchantress <bunsthedev@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
